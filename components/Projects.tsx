@@ -5,11 +5,11 @@ import { ExternalLink, Github } from 'lucide-react'
 
 const projects = [
   {
-    title: "Healthful Plates - FYP (In development)",
-    description: "The Healthful Plates platform is designed to help users discover and share healthy recipes effortlessly. It provides nutrition insights, an interactive ingredients cart, and text-to-speech functionality for enhanced accessibility. Built using Next.js, Prisma, and MongoDB, the system ensures efficient data management and a seamless user experience.",
-    image: "/fyp.png?height=200&width=300",
-    tags: ["Next.js", "TypeScript", "Node.js", "MongoDB", "Prisma"],
-    githubLink: "https://github.com/adrianaafandi/healthful-plates",
+    title: "Dual Campus Integrated Booking System (Clinic Campus) - FYP (In development)",
+    description: "This mobile application is designed specifically for UMP students and lecturers at Campus Pekan and Gambang. It streamlines the process of managing appointments by allowing users to book, reschedule, and cancel appointments effortlessly. ",
+    image: "/fyp dual.jpg?height=200&width=300",
+    tags: ["Dart", "Firebase"],
+    githubLink: "https://github.com/warsena/appointmentpractice.git",
   },
   {
     title: "KAFA Management System",
@@ -17,7 +17,7 @@ const projects = [
     image: "/kafa.png?height=200&width=300",
     tags: ["Laravel", "PHP", "Blade", "Laragon"],
     liveLink: "https://kafamanagementsystem.io/login",
-    githubLink: "https://github.com/adrianaafandi/KAFA-Management-System",
+    githubLink: "https://github.com/warsena/KAFA-Management-System.git",
   },
 ]
 
